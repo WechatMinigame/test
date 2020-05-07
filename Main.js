@@ -1,4 +1,4 @@
-//123123123
+
 //入口
 import {Resources} from "./js/base/Resources.js";
 import {ResourceLoader} from "./js/base/ResourceLoader.js";
